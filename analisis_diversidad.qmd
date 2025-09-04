@@ -1,0 +1,35 @@
+---
+title: "Análisis de diversidad"
+subtitle: "Capacitación interna | Tecoatl Asesoría Ambiental y Soluciones Alternativas"
+author: "Biol. Michell Romero"
+format: revealjs
+logo: logo_TCT_negro.png   #agregando el logo
+slide-number: c/t          #número de diapositiva
+transition: fade           #transición transparente
+---
+
+## ¿Qué vamos a aprender hoy?
+
+::: {.incremental}
+-   Recordar el concepto general de diversidad en un contexto ecológico
+-   Conocer los distintos estimadores de riqueza
+-   Recordar los índices de diversidad tradicionales
+-   Conocer el análisis de diversidad mediante Números de Hill
+-   Conocer la forma más actual de estimar la diversidad con iNext en R y RStudio
+:::
+
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
